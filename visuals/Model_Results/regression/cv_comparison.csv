@@ -1,0 +1,4 @@
+Model,CV MAE (avg),CV MAE (±std),CV R² (avg),CV R² (±std),Train MAE,Train R²,Overfit gap (MAE)
+Linear Regression (Ridge),0.5589,0.0162,0.4197,0.0239,0.5533,0.4315,0.0056
+Random Forest,0.5263,0.0138,0.4512,0.0216,0.4706,0.5593,0.0557
+XGBoost,0.5279,0.0170,0.4511,0.0289,0.4179,0.6668,0.1100

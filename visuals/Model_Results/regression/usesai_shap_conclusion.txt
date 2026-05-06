@@ -1,0 +1,1 @@
+After controlling for WorkExp, Region, DevType, Industry, and tech stack, UsesAI ranks 46/103 in SHAP importance, accounting for 0.3% of total model attribution. AI users receive a SHAP contribution of -0.0010 log-salary units on average.
